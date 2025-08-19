@@ -1,2 +1,2 @@
-# J-piter
+# Júpiter
 Página sobre Júpiter
